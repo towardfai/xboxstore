@@ -1,12 +1,15 @@
-[
-    {
-        "name": "Deep Silver 發行商特價",
-        "url": "http://www.xbox.com/zh-hk/promotions/sales/deep-silver-sale",
-        "segue": "collection"
-    },
-    {
-        "name": "Deep Silver 發行商特價",
-        "url": "http://www.xbox.com/zh-hk/promotions/sales/deep-silver-sale",
-        "segue": "table"
-    }
-]
+{
+    "name": "active",
+    "list": [
+        {
+            "name": "Deep Silver 發行商特價",
+            "url": "http://www.xbox.com/zh-hk/promotions/sales/deep-silver-sale",
+            "segue": "collection"
+        },
+        {
+            "name": "Deep Silver 發行商特價",
+            "url": "http://www.xbox.com/zh-hk/promotions/sales/deep-silver-sale",
+            "segue": "table"
+        }
+    ]
+}

@@ -6,12 +6,7 @@
             "url": "http://www.xbox.com/zh-hk/promotions/sales/deep-silver-sale",
             "segue": "collection",
             "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/deepsilver"
-        },
-        {
-            "name": "Deep Silver 發行商特價",
-            "url": "http://www.xbox.com/zh-hk/promotions/sales/deep-silver-sale",
-            "segue": "table",
-            "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/deepsilver"
         }
+        
     ]
 }

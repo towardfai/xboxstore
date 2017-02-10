@@ -2,7 +2,7 @@
     "name": "active",
     "list": [
         {
-            "name": "Deep Silver 發行商特價",
+            "name": "Deep Silver (NEW)",
             "url": "http://www.xbox.com/zh-hk/promotions/sales/deep-silver-sale",
             "segue": "collection",
             "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/deepsilver"

@@ -2,7 +2,7 @@
     "name": "active",
     "list": [
         {
-            "name": "Deep Silver (NEW)",
+            "name": "Save up to 75% on select Deep Silver games (New)",
             "url": "http://www.xbox.com/zh-hk/promotions/sales/deep-silver-sale",
             "segue": "collection",
             "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/deepsilver"

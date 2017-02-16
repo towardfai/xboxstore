@@ -6,6 +6,18 @@
             "url": "http://www.xbox.com/en-us/promotions/sales/2k-sale",
             "segue": "collection",
             "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/2k-sale"
+        },
+        {
+            "name": "This Week’s Anime Game Deals (New)",
+            "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
+            "segue": "collection",
+            "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/game-deals"
+        },
+        {
+            "name": "This Week’s Digital Deals (New)",
+            "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
+            "segue": "collection",
+            "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/digital-deals"
         }
     ]
 }

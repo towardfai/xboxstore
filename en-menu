@@ -1,0 +1,47 @@
+[
+  {
+    "name" : "Charts",
+    "list" : [
+      {
+        "name" : "Top paid",
+        "url" : "\/en-us\/store\/top-paid\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "Top free",
+        "url" : "\/en-us\/store\/top-free\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "New",
+        "url" : "\/en-us\/store\/new\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "Coming Soon",
+        "url" : "\/en-us\/store\/coming-soon\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "Best-rated",
+        "url" : "\/en-us\/store\/best-rated\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "Most Played",
+        "url" : "\/en-us\/store\/most-played\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "Game Demos",
+        "url" : "\/en-us\/store\/game-demos\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "Game Previews",
+        "url" : "\/en-us\/store\/game-previews\/games\/xbox",
+        "segue" : "table"
+      }
+    ]
+  }
+]

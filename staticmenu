@@ -1,0 +1,47 @@
+[
+  {
+    "name" : "Charts",
+    "list" : [
+      {
+        "name" : "熱門付費",
+        "url" : "\/zh-hk\/store\/top-paid\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "熱門免費",
+        "url" : "\/zh-hk\/store\/top-free\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "新增",
+        "url" : "\/zh-hk\/store\/new\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "即將推出",
+        "url" : "\/zh-hk\/store\/coming-soon\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "最佳評選",
+        "url" : "\/zh-hk\/store\/best-rated\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "最常玩",
+        "url" : "\/zh-hk\/store\/most-played\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "遊戲示範",
+        "url" : "\/zh-hk\/store\/game-demos\/games\/xbox",
+        "segue" : "table"
+      },
+      {
+        "name" : "遊戲預覽",
+        "url" : "\/zh-hk\/store\/game-previews\/games\/xbox",
+        "segue" : "table"
+      }
+    ]
+  }
+]

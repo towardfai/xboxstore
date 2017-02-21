@@ -1,14 +1,9 @@
 {
     "name": "active",
     "list": [
+        
         {
-            "name": "2K Publisher Sale (New)",
-            "url": "http://www.xbox.com/en-us/promotions/sales/2k-sale",
-            "segue": "collection",
-            "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/2k-sale"
-        },
-        {
-            "name": "This Week’s Anime Game Deals (New)",
+            "name": "Anime Month is Back . Feb. 7 - Mar. 6",
             "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
             "segue": "collection",
             "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/game-deals"

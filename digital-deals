@@ -3,52 +3,36 @@
     "name": "This Week’s Digital Deals (New)",
     "list": [
   {
-    "deals" : "$19.99  Now $10.00",
-    "is360" : false,
-    "key" : "C0GMW8QH429T",
-    "name" : "LEGO Batman 3",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/LEGO-Batman3:-Beyond-Gotham\/C0GMW8QH429T",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcD6aWGf9yVyrOFP91pgjRUVzyD1MoOV.WGmSlDgl_wD0MrC5gpE6PPJbHA_WqGVsys8EOy.fyLoPqGlKdhAr3JeHlH4ik_1oQQ59gMoLtpSIRZdbrqZiemoEvwyjrX5m0gsla8vbcGwSdL6DteUahgDRkGwe1wceADiUsanwmnHw-"
+    "name": "Grand Theft Auto V",
+    "imageurl": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcBRrnAJQEtGRvnC9mWwA4JjSGW_aIgd3q8Vbtze9fJIV1bImsV5x9Ln9.Vcd8pQXHwWqJpO.L4QrZC2EC5RhWiFzRR3Z6rADkTYNX_mhgIgvasz3IEdjX48F1GC_0AZ.tbutk2RYplP7WdBOp9mVYYi5gEPW4ygnI7yMYgaZjZxA-",
+    "url": "https://www.microsoft.com/en-US/store/p/Grand-Theft-Auto-V/BPJ686W6S0NH",
+    "deals": "$59.99  Now $30.00",
+    "key": "BPJ686W6S0NH",
+    "is360": false
   },
   {
-    "deals" : "$34.99  Now $14.00",
-    "is360" : false,
-    "key" : "c4hfhz44z3r3",
-    "name" : "LEGO Batman 3 Deluxe",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/lego-batman-3-beyond-gotham-deluxe-edition\/c4hfhz44z3r3",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcPXFr.IljG1gdy5XYGyImrVzCr4My7h9.la15oPBe9VWo.MZK7u42yhvpvWqcm1.UXpFKBIiZbweTjF.pFWRGx6miUHj4d4l8325wmMgXZ8wYwvQGwcNLkWGCZ0p2KSI.gR0D6h1vkPAyiDmrqMjd2BaAdX.Zb6geZuSLHf97dqQ-"
+    "name": "Grand Theft Auto V & Great White Shark Cash Card Bundle",
+    "imageurl": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcIPnj709yt_qTf9JgBm.K7RKtXMeLFaB_lxmWIKC9ZQQGKg10Iy7rhhoygkuSQ4_wde0APQF2h1NbRZh.3oi0dpJBUhbi08xemR5SfFHifnMnOcLF59cj059aYlPr3M6YT0x0gxS_zfw2kr7OqPwa8NDLJ7t705k2uSswyhbbHTQ-",
+    "url": "https://www.microsoft.com/en-US/store/p/Grand-Theft-Auto-V--Great-White-Shark-Cash-Card/BNVMK7MLNL1W",
+    "deals": "$79.99  Now $40.00",
+    "key": "BNVMK7MLNL1W",
+    "is360": false
   },
   {
-    "deals" : "$19.99  Now $10.00",
-    "is360" : false,
-    "key" : "BPTWSRMJH2JF",
-    "name" : "LEGO Jurassic World",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/LEGO-Jurassic-World\/BPTWSRMJH2JF",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTccDBUlbra.X4PmF8NUCAE2b8Ft5eD_eFPHq61dRbNJKHjpADB5T6zNJQB9WoE28LQ3TLu79OwN7On8EDYr4QZXYKimFgVBbjEKcBRzoUzR6UdUoEGaFzyMIhS78RUfW1UUD9yMVmifNgMq39NYSMx0p6z1fhAfOUGmxXWQxv3M_M-"
+    "name": "Grand Theft Auto V & Whale Shark Cash Card Bundle",
+    "imageurl": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTczz.rsdyrEuY3fbmAEi6pYxbnCMxGGf4OfnTHd3WAy72YxLxrTwQcUnmrUPJv1vLSdZo6puL4P1YH3dYJ8aBC7oS3hdYpDEi5x5J8NRuiPt91PGiyMxelen2PMn5ILH4rOJnyvNeK4nVaMvSCeJQnpVqu1s83Zh340ipEP79rwMk-",
+    "url": "https://www.microsoft.com/en-US/store/p/Grand-Theft-Auto-V--Whale-Shark-Cash-Card-Bundle/C47BS8W7K7FS",
+    "deals": "$109.99  Now $44.00",
+    "key": "C47BS8W7K7FS",
+    "is360": false
   },
   {
-    "deals" : "$39.99  Now $23.99",
-    "is360" : false,
-    "key" : "BSHZGCGJNCN5",
-    "name" : "LEGO Star Wars: The Force Awakens",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/LEGO-STAR-WARS-The-Force-Awakens\/BSHZGCGJNCN5",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcJy_8qRqFcy_E.a.ZHo8ybhhOlYzafQmQ.aL4NND4_fQm9UyDsom4Wy_hEwhjljH4WfiD0dmmR5opzBcZuNrOF8qLpk9McVOHcm2WYePrtePAeKIKlG1FAd0a6ObHPusvHGmOk8ozKVbU4JVcIux8SGFQ7cu7u8KTZ4HOVE8GDGw-"
-  },
-  {
-    "deals" : "$49.99  Now $27.49",
-    "is360" : false,
-    "key" : "c3kr2llcjm25",
-    "name" : "Lego Star Wars: The Force Awakens Deluxe Edition",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/lego-star-wars-the-force-awakens-deluxe-edition\/c3kr2llcjm25",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcHVrTJOh_JoQg_3LPAMQQ_RJvTLpXkChMS6j.cEmwc0CYC4Ici3kSyuCHF.K6w2gBgY6gbMBviEwI5oCrfYTLaN.HOiu69z.8Tf3drNJjyc3w9_5pejxpzw5mVLpBNLGuV8D19OrU6AhMIcpa.qZsyA7dLKxi6HG_sl6.KsOw__w-"
-  },
-  {
-    "deals" : "$14.99  Now $10.49",
-    "is360" : false,
-    "key" : "C4G0MW20NZ9P",
-    "name" : "Bokosuka Wars II",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/BOKOSUKA-WARS-%E2%85%A1\/C4G0MW20NZ9P",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcbpLMNAqHcv0A5ewQ.LdoqaB.jNel84.mP6lu.vCS8.628dDbA0GCSNpk.b6SI3_xDQ48jIGl3ZH2EBqm6fn6S5NBq.gggg__9pN1qKxW32oUGBIc3LmNdRfDIOEQ0jti_IODb7CFWUJH37aQisWpwYODeDi16EgqnKhhE6v3CuA-"
+    "name": "Grand Theft Auto V & Megalodon Shark Cash Card Bundle boxshot",
+    "imageurl": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTc0jfZO..XDeQvCAgpOoyPbj8pzrpK7DamJeT6wKklV1Qh02QOyZwv6xNtsDsVGQKYGqopfBuzZ78FAMbC3Rv8gzZsFtbZ95UipWXk_9BwmccaLPdMKW6P1bYFhq9JjSbDb3DiEFeedS09hhxVfPhP4VIL8Jb4hhR401ZEGiT_b4c-",
+    "url": "https://www.microsoft.com/en-US/store/p/Grand-Theft-Auto-V--Megalodon-Shark-Cash-Card-Bundle/C54TNMRCBH0C",
+    "deals": "$159.99  Now $64.00",
+    "key": "C54TNMRCBH0C",
+    "is360": false
   }
 ]
 

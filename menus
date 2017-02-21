@@ -19,6 +19,6 @@
             "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
             "segue": "table",
             "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/all-deals"
-        },
+        }
     ]
 }

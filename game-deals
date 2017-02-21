@@ -3,36 +3,28 @@
     "name": "This Week’s Anime Game Deals (New)",
     "list": [
   {
-    "deals" : "$29.99  Now $15.00",
-    "is360" : false,
-    "key" : "C1KX6KNB7XMM",
-    "name" : "NARUTO SHIPPUDEN: Ultimate STORM 4",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/NARUTO-SHIPPUDEN-Ultimate-Ninja-STORM-4\/C1KX6KNB7XMM",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcegOkVb21TDTzcq5gnihG6VlWWI7EHdms767cI7A8IT.RBJnej0DVYMTDfqtyjzG1ZscgOoLYcPB0smL640YsSpz4GuVmC2Tp.jn68Td8lhWC75YxWycaWLd7VB2vzwBjQTrBoELU..0GORLYsQW8LtS5NWlv02BJzgMwshMKgQw-"
+    "name": "Attack on Titan",
+    "imageurl": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcK5hYBWWVKpEjvsWQvwi6zxpWtdk9Sl_E6wfTw2pz0JxRZLh7PWDfn_9bXU4Uz7BymcDiS.9BgCAYrOIqLZlD0AuA685h5CGYBRfTB3j8UFl1lJf2dPocqsXPyX1IYMSWaA.jzz8q4kUxnmaXY9GO_cT200UnEMIiicZ4YjpuKJA-",
+    "url": "https://www.microsoft.com/en-US/store/p/Attack-on-Titan/C3QWVTZ6HTCB",
+    "deals": "$59.99  Now $44.99",
+    "key": "C3QWVTZ6HTCB",
+    "is360": false
   },
   {
-    "deals" : "$19.99  Now $14.99",
-    "is360" : false,
-    "key" : "C27310SV00G5",
-    "name" : "NARUTO STORM 4 - Season Pass",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/NARUTO-STORM-4---Season-Pass\/C27310SV00G5",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcF9YKvjw3ayhVeZMNMdABcILFlm6.h0MDWVeFLAtRSY2aFCYEJXU_yllBHZJoyKyHbyLfMVFzmmOJ3RrEN_oRgpIKAVs.w8bvw.jZeJe3cZ3LuVGjLpJ5gsXGT0hYNbocwjO3Rk9X_iC79IN.cJX6zLoE.H7m8Mb6blQCqmepPY8-"
+    "name": "WARRIORS OROCHI 3 Ultimate",
+    "imageurl": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTc2KuEOBJ3n4mAkLL9Nnr_brxKnjJ8FDFw3e0h5xo2psi1q2nJaNJSXErPf_3fc52PyikNhn_4MMGxFgkwvdGnk5pS..pl9IpvKfYyHpMvXKlJOesUne1uRcDfcEdJGlL6GZ5Q7qXiLO6_s2ScUQxEnvFh8iGBM5UfBcExzKxaXbQ-",
+    "url": "https://www.microsoft.com/en-US/store/p/WARRIORS-OROCHI-3-Ultimate/BNQT3LCMJTRS",
+    "deals": "$59.99  Now $35.99",
+    "key": "BNQT3LCMJTRS",
+    "is360": false
   },
   {
-    "deals" : "$39.99  Now $16.00",
-    "is360" : false,
-    "key" : "BQ023H8GXZ3T",
-    "name" : "DRAGON BALL XENOVERSE",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/DRAGON-BALL-XENOVERSE\/BQ023H8GXZ3T",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcgjkDHLJ4ACWCtBhZH26FgKJLYIRdxB78cQ4q6IF.U66e46.xD.TcrMZTHyNfm8pKZk.L_6vQTGJefJ_LPqmpBPVXTL8LG1rTEBKVCM2_5v.6kQozDGWKWrEpd1mAGVZZ9XfD3N.Ho2mS9PwiuDWlXBDUnFCQ2WaV2BrbVPgbv7Y-"
-  },
-  {
-    "deals" : "$64.99  Now $26.00",
-    "is360" : false,
-    "key" : "bnbd3kt0zw90",
-    "name" : "Dragon Ball Xenoverse + Season Pass",
-    "url" : "https:\/\/www.microsoft.com\/store\/p\/dragon-ball-xenoverse-season-pass\/bnbd3kt0zw90",
-    "imageurl" : "https:\/\/images-eds-ssl.xboxlive.com\/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcjIBLW_FSdTi1JrcVXVy2SZb_0Ucjmgt.0xa9oPwvrm4frl78vV8bZvO8b_NiDG_vA8DhUjvDi4qmMT.nZDbghfqAiea0zPUXUI_WpI5CVhxnKxZYRzfzh3lg8UmGrE12gEq22fR8rsZ2qcIK3oo1k.4N7q_nJoBizySzDqQEoYE-"
+    "name": "BLAZBLUE CHRONOPHANTASMA EXTEND",
+    "imageurl": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcke1QFhBcRLGFpNjn3GV9V9s5rQrp0qJ_rtq8g4XIPtKTILldel845Q_cNcaRkioYjYD.ApuhhozdBzieytX.8bUF.HPr_pcaj0WXTjdnKdfCpWfsa_3Y.kkcichtAOYcazYNMt8y6VBahWS38hEr7wcSxaKkAWOXiOF76OggtsI-",
+    "url": "https://www.microsoft.com/en-US/store/p/BLAZBLUE-CHRONOPHANTASMA-EXTEND/BS41PBV1CZSN",
+    "deals": "$24.99  Now $12.50",
+    "key": "BS41PBV1CZSN",
+    "is360": false
   }
 ]
 

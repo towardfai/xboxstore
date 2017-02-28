@@ -13,6 +13,12 @@
             "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
             "segue": "collection",
             "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/digital-deals"
+        },
+        {
+            "name": "EA Deals (New)",
+            "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
+            "segue": "collection",
+            "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/ea-seals"
         }
        
     ]

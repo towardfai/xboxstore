@@ -2,24 +2,7 @@
     "name": "active",
     "list": [
         
-        {
-            "name": "Anime Month is Back . Feb. 7 - Mar. 6",
-            "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
-            "segue": "collection",
-            "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/game-deals"
-        },
-        {
-            "name": "This Week’s Digital Deals (New)",
-            "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
-            "segue": "collection",
-            "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/digital-deals"
-        },
-        {
-            "name": "EA Deals (New)",
-            "url": "http://www.xbox.com/en-us/promotions/sales/sales-and-specials",
-            "segue": "collection",
-            "listUrl": "https://raw.githubusercontent.com/towardfai/xboxstore/master/ea-seals"
-        }
+        
        
     ]
 }
